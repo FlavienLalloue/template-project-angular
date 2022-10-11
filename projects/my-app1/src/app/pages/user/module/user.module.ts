@@ -4,6 +4,7 @@ import {UserResumeComponent} from "../components/user-resume/user-resume.compone
 import {UserConsultLayoutComponent} from "../pages/consult/layout/user-consult-layout.component";
 import {UserCreateLayoutComponent} from "../pages/create/layout/user-create-layout/user-create-layout.component";
 import {UserUpdateLayoutComponent} from "../pages/update/layout/user-update-layout/user-update-layout.component";
+import {UserInformationsComponent} from "../pages/consult/components/user-informations/user-informations.component";
 
 
 @NgModule({
@@ -11,7 +12,8 @@ import {UserUpdateLayoutComponent} from "../pages/update/layout/user-update-layo
     UserResumeComponent,
     UserConsultLayoutComponent,
     UserCreateLayoutComponent,
-    UserUpdateLayoutComponent
+    UserUpdateLayoutComponent,
+    UserInformationsComponent
   ],
   imports: [
     CommonModule
