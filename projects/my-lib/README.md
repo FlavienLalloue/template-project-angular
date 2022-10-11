@@ -1,5 +1,9 @@
 # MyLib
 
+Must Containes everything that is used in both root project app1 and app2.
+Do not add too much code in it.
+Do not add class that are used only in one project.
+
 This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.0.
 
 ## Code scaffolding
